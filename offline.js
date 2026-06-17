@@ -1,5 +1,5 @@
 ﻿{
-	"version": 1781366519,
+	"version": 1781712225,
 	"fileList": [
 		"data.js",
 		"c2runtime.js",
@@ -32,7 +32,6 @@
 		"images/indicator-sheet0.png",
 		"images/dialoguecontainer-sheet0.png",
 		"images/namecontainer-sheet0.png",
-		"images/choicedialogue-sheet0.png",
 		"images/choicecontainer-sheet0.png",
 		"images/popup-sheet0.png",
 		"images/akumengertibtn-sheet0.png",
@@ -54,6 +53,8 @@
 		"images/kakak-sheet0.png",
 		"images/kakaktrigger-sheet0.png",
 		"images/popuphalaman-sheet0.png",
+		"images/ruangkeluargatrigger-sheet0.png",
+		"images/momtrigger2-sheet0.png",
 		"icon-16.png",
 		"icon-32.png",
 		"icon-114.png",
