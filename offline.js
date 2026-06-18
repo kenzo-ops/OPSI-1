@@ -1,5 +1,5 @@
 ﻿{
-	"version": 1781789366,
+	"version": 1781797007,
 	"fileList": [
 		"data.js",
 		"c2runtime.js",
@@ -28,6 +28,7 @@
 		"images/objecttilemap.png",
 		"images/objecttilemap4.png",
 		"images/transition-sheet0.png",
+		"images/transition-sheet1.png",
 		"images/booktrigger-sheet0.png",
 		"images/indicator-sheet0.png",
 		"images/dialoguecontainer-sheet0.png",
@@ -56,6 +57,8 @@
 		"images/ruangkeluargatrigger-sheet0.png",
 		"images/momtrigger2-sheet0.png",
 		"images/choicebox-sheet0.png",
+		"images/quizbg-sheet0.png",
+		"images/sprite10-sheet0.png",
 		"icon-16.png",
 		"icon-32.png",
 		"icon-114.png",

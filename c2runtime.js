@@ -23312,6 +23312,8 @@ cr.getObjectRefTable = function () { return [
 	cr.plugins_.Sprite.prototype.exps.X,
 	cr.plugins_.Sprite.prototype.exps.Y,
 	cr.plugins_.Browser.prototype.acts.ExecJs,
-	cr.system_object.prototype.cnds.IsMobile
+	cr.system_object.prototype.cnds.IsMobile,
+	cr.plugins_.Sprite.prototype.cnds.OnAnimFinished,
+	cr.behaviors.Fade.prototype.cnds.OnFadeOutEnd
 ];};
 
