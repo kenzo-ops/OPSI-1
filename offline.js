@@ -1,5 +1,5 @@
 ﻿{
-	"version": 1781712225,
+	"version": 1781789366,
 	"fileList": [
 		"data.js",
 		"c2runtime.js",
@@ -55,6 +55,7 @@
 		"images/popuphalaman-sheet0.png",
 		"images/ruangkeluargatrigger-sheet0.png",
 		"images/momtrigger2-sheet0.png",
+		"images/choicebox-sheet0.png",
 		"icon-16.png",
 		"icon-32.png",
 		"icon-114.png",

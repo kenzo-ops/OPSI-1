@@ -23250,11 +23250,11 @@ cr.behaviors.solid = function(runtime)
 cr.getObjectRefTable = function () { return [
 	cr.plugins_.Browser,
 	cr.plugins_.Keyboard,
-	cr.plugins_.TextBox,
-	cr.plugins_.Tilemap,
-	cr.plugins_.Touch,
 	cr.plugins_.Text,
+	cr.plugins_.Tilemap,
 	cr.plugins_.Sprite,
+	cr.plugins_.TextBox,
+	cr.plugins_.Touch,
 	cr.behaviors.EightDir,
 	cr.behaviors.solid,
 	cr.behaviors.scrollto,
@@ -23296,11 +23296,12 @@ cr.getObjectRefTable = function () { return [
 	cr.system_object.prototype.acts.AddVar,
 	cr.plugins_.Sprite.prototype.acts.SetPos,
 	cr.plugins_.Touch.prototype.cnds.OnTapGestureObject,
+	cr.behaviors.lunarray_LiteTween.prototype.acts.Reverse,
 	cr.system_object.prototype.cnds.PickNth,
+	cr.behaviors.lunarray_LiteTween.prototype.cnds.OnReverseEnd,
 	cr.plugins_.Text.prototype.acts.SetFontColor,
 	cr.system_object.prototype.exps.rgb,
 	cr.system_object.prototype.acts.SetLayerVisible,
-	cr.behaviors.lunarray_LiteTween.prototype.acts.Reverse,
 	cr.system_object.prototype.acts.GoToLayout,
 	cr.plugins_.Text.prototype.acts.SetFontSize,
 	cr.plugins_.Touch.prototype.cnds.OnTouchObject,
@@ -23311,7 +23312,6 @@ cr.getObjectRefTable = function () { return [
 	cr.plugins_.Sprite.prototype.exps.X,
 	cr.plugins_.Sprite.prototype.exps.Y,
 	cr.plugins_.Browser.prototype.acts.ExecJs,
-	cr.system_object.prototype.cnds.IsMobile,
-	cr.behaviors.lunarray_LiteTween.prototype.cnds.OnReverseEnd
+	cr.system_object.prototype.cnds.IsMobile
 ];};
 
